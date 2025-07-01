@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/whitegirls812/nexus-ai-operating-system.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
